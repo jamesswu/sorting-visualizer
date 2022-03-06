@@ -8,3 +8,7 @@ add shell sort\
 add quick sort\
 add heap sort\
 add counting sort
+
+### Collaborators
+- James Wu
+- Angelico Salazar
